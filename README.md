@@ -6,6 +6,10 @@ Currently pursuing a Masters degree and working as a graduate Instructional Stud
 - Key Skills: Python, SQL, PySpark, Beam, AWS, Google Cloud Platform
 - Coursework: Machine Learning Technologies, Mathematical Methods for Data Analysis, Big Data Technology, Database Systems (NoSQL Databases)
 
+Currently looking for internship opportunities to apply my abilities and further improve my skillset.
+
+💬 abdullahnawaz94@gmail.com
+
 
 <!--
 **khan85/khan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
