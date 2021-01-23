@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Analytics graduate student with 2 years of work experience in implementing end-to-end software solutions using various big data technologies. 
+I'm a Data Analytics graduate student with 2.5 years of work experience in implementing end-to-end software solutions using various big data technologies. 
 Currently pursuing a Masters degree and working as a graduate Instructional Student Assistant for a distributed computing course (Big Data Technology) focusing on data processing pipeline development on AWS.
 
 - Key Skills: Python, SQL, PySpark, Beam, AWS, Google Cloud Platform
