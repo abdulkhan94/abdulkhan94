@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-I'm a Data Analytics graduate student with 2.5 years of work experience in implementing end-to-end software solutions using various big data technologies. 
-Currently pursuing a Masters degree and working as a graduate Instructional Student Assistant for a distributed computing course (Big Data Technology) focusing on leveraging AWS to implement solutions.
-
-- Key Skills: Python, SQL, PySpark, Beam, AWS, Google Cloud Platform
-- Coursework: Machine Learning Technologies, Mathematical Methods for Data Analysis, Big Data Technology, Database Systems (NoSQL Databases)
-
-Currently looking for internship opportunities to apply my abilities and further improve my skillset.
-
-💬 abdullahnawaz94@gmail.com
-
-
 <!--
 **khan85/khan85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
